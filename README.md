@@ -57,6 +57,10 @@ Contributions are welcome! If you'd like to improve or extend the project, feel 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## 🚀 Live Demo
+
+👉 [Click here to view the live project](https://cpu-schedular-visulaization.vercel.app/)
+
 
 
 
