@@ -31,7 +31,17 @@ A lightweight, interactive visualizer for simulating popular CPU scheduling algo
 ## 🖼️ Preview
 
 <!-- Replace the link below with your actual screenshot path or hosted image URL -->
-![Screenshot](path/to/screenshot.png)
+Select Scheduling Algorithum
+![Screenshot](Screenshot_1.png)
+
+Gantts' Chart
+![Screenshot](Screenshot_2.png)
+
+Visual Graph
+![Screenshot](Screenshot_3.png)
+
+Matrix Representation
+![Screenshot](Screenshot_4.png)
 
 ## 💡 Future Enhancements
 
