@@ -18,7 +18,12 @@ A lightweight, interactive visualizer for simulating popular CPU scheduling algo
   - Average Times
 
 ## 📂 Project Structure
-``` cpu-scheduling-visualizer/ ├── index.html ├── styles.css └── script.js ```
+
+    cpu-scheduling-visualizer/
+    ├── index.html
+    ├── styles.css
+    └── script.js
+
 
 ## 🖥️ How to Use
 
